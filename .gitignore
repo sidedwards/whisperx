@@ -1,0 +1,8 @@
+whisperx.egg-info/
+**/__pycache__/
+.ipynb_checkpoints
+.idea
+venv
+hg_access_token.txt
+models
+.cog
